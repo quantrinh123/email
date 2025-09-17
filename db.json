@@ -1,0 +1,11 @@
+"otpLogin": {
+    "sent": true,
+    "message": "OTP sent to email a****@prudential.com.sg"
+  },
+  "regenerateOTP": {
+    "sent": true,
+    "message": "New OTP sent to email a****@prudential.com.sg"
+  },
+  "verifyOTP": {
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR-EMAIL"
+  }
